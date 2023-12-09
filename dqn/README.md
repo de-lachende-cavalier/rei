@@ -2,6 +2,10 @@
 
 Various experiments concerning good ol' DQN.
 
+## TODO
+
+- [ ] Bayesian Distributional DQN
+
 ## References
 
 - Rainbow: Combining Improvements in Deep Reinforcement Learning, [arXiv](https://arxiv.org/abs/1710.02298)
