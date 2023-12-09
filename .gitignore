@@ -3,6 +3,7 @@ __pycache__/
 *.py[cod]
 *$py.class
 .DS_Store
+CMakeLists.txt
 
 # C extensions
 *.so
@@ -164,4 +165,5 @@ cython_debug/
 bin/
 lib/
 share/
+include/
 pyvenv.cfg
