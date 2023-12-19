@@ -2,8 +2,6 @@
 
 lara is a repository dedicated to an exploration of the interaction between language models and reinforcement learning.
 
-The ambitious idea behind it is to approach a humans capabiilty to translate natural language into an effective action.
-
 ## Resources
 
 - RT-2, by [DeepMind](https://robotics-transformer2.github.io/)
