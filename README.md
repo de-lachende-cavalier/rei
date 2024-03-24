@@ -8,4 +8,4 @@ If you see something that piques your interest, feel free to send a pull request
 **IMPORTANT CAVEAT**: Because of the experimental nature of the repo, I've payed very little attention to the beauty/elegance/efficiency of the code and to making working with it pleasant.
 That means that, if you intend to tinker with it, (1) you'll have to install all the dependencies manually and (2) you might cringe at the hackiness of the whole thing (which is, actually, not immensely horrendous in great part thanks to GPT4...)
 
-## Interesting resources
+**N.B.**: The code uses `python 3.11.8`!

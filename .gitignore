@@ -167,3 +167,6 @@ lib/
 share/
 include/
 pyvenv.cfg
+
+# misc
+lara/glove6B/
